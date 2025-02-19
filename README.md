@@ -20,7 +20,7 @@ idea is pretty simple: instead of giving every device one public IP address,
 give a router a public IP address and all the 12 devices in a household will get
 private IP addresses that only really matter inside the house.
 
-![NAT Routing Diagram](https://wiki.teltonika-networks.com/view/Network_Address_Translation)
+![NAT Routing Diagram]([https://wiki.teltonika-networks.com/view/Network_Address_Translation](https://wiki.teltonika-networks.com/images/thumb/b/b7/Private_public_ip_3_v2.png/1000px-Private_public_ip_3_v2.png))
 
 This is why addresses like `192.168.*.*` and `10.*.*.*` come up so often - these
 are IP address spaces that are reserved for private use and usually used for
